@@ -80,7 +80,7 @@ function App() {
   return (
     <>
       <div className="bg-[url(/bgcover.jpg)] bg-cover h-screen w-screen flex justify-center items-center  ">
-        <div className="w-[80%] h-fit md:mx-5 transition-all duration-1000 bg-[#d9d9d92b] backdrop-blur-sm rounded-full">
+        <div className="w-[80%] h-fit md:mx-5 transition-all w-fit duration-1000 bg-[#d9d9d92b] backdrop-blur-sm rounded-full">
           <div className="flex flex-col w-full h-full items-center p-2 md:p-5">
             <div className=" flex flex-col justify-center items-center">
             <div className="flex w-[80%] md:w-[90%] h-fit mx-auto border py-1 px-4 bg-gray-100 rounded-3xl gap-5">
